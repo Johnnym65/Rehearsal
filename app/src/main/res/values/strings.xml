@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reh</string>
+    <string name="title_activity_play_scene">PlayScene</string>
+    <string name="title_activity_scene_menu">SceneMenu</string>
+</resources>

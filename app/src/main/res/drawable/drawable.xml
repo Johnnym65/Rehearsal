@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/textbubble" />
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/textbubbledown" />
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/textbubbleplay" />
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/newdialogue" />
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/startscene" />
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/playscene" />
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/nextline" />
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/recordline"/>
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/recordlinedown"
+        />
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/recordlinestop"
+        />
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/scenebutton"
+        />
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/newscene"
+        />
+
+
+</selector>
